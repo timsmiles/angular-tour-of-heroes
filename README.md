@@ -1,5 +1,19 @@
 # AngularTourOfHeroes
 
+## Overview
+
+### Dashboard page
+![Dashboard](img/dashboard.png)
+
+### List of heroes page
+![ListOfHeroes](img/list-of-heroes.png)
+
+### Detail of a hero page
+![Hero](img/hero.png)
+
+
+---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
